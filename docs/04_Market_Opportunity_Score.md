@@ -1,4 +1,4 @@
-# Market Opportunity Score
+# Market Opportunity Score(MIP Score)
 
 ## Objectif
 
