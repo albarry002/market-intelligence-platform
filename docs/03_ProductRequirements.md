@@ -94,6 +94,11 @@ Pour chaque produit, la plateforme devra afficher notamment :
 - évolution historique
 
 ---
+## Market Opportunity Score
+
+La plateforme devra proposer un indicateur permettant d'évaluer le potentiel d'un produit à partir de plusieurs critères du marché.
+
+Cet indicateur aidera l'utilisateur à comparer plusieurs opportunités et à prendre une décision avant un investissement.
 
 # 7. Vision
 
